@@ -19,7 +19,7 @@ project = 'quardCRT'
 copyright = '2023, Quard(qiaoqiming)'
 author = 'Quard(qiaoqiming)'
 
-extensions = ['myst_parser']
+extensions = ['myst_parser', 'sphinxcontrib.googleanalytics']
 templates_path = ['_templates']
 html_static_path = ['_static']
 exclude_patterns = ['_build', 'Thumbs.db', '.DS_Store']
@@ -31,6 +31,9 @@ html_title = '主页'
 html_sidebars = {
     "**": ["logo-text.html", "globaltoc.html", "localtoc.html", "searchbox.html"]
 }
+
+googleanalytics_enabled = True
+googleanalytics_id = 'G-10XGZR5Z3C'
 
 html_theme_options = {
     'nav_title': 'quardCRT',
