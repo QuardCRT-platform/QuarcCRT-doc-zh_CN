@@ -96,7 +96,7 @@ quardCRT是一个终端仿真和远程桌面软件，支持多种后端协议，
 插件
 ----------------------------------
 
-quardCRT将从V0.4.0版本开始支持插件，插件将以Qt插件的形式提供，以动态库的形式加载，关于插件开发信息的更多了解，请参考插件开放平台`platform <https://github.com/QuardCRT-platform>`_。该平台将提供插件开发的模板仓库和相关示例。目前插件功能还处于早期开发阶段，如果您有好的想法或建议，请在`GitHub <https://github.com/QQxiaoming/quardCRT>`_或`Gitee <https://gitee.com/QQxiaoming/quardCRT>`_上提交issues或讨论。
+quardCRT将从V0.4.0版本开始支持插件，插件将以Qt插件的形式提供，以动态库的形式加载，关于插件开发信息的更多了解，请参考插件开放平台 `platform <https://github.com/QuardCRT-platform>`_ 。该平台将提供插件开发的模板仓库和相关示例。目前插件功能还处于早期开发阶段，如果您有好的想法或建议，请在 `GitHub <https://github.com/QQxiaoming/quardCRT>`_ 或 `Gitee <https://gitee.com/QQxiaoming/quardCRT>`_ 上提交issues或讨论。
 
 .. toctree::
    :maxdepth: 3
