@@ -1,3 +1,5 @@
+<div style="text-align: right"><a href="../../en/latest/acknowledgements.html">🇺🇸 English</a> | <a href="../../zh-cn/latest/acknowledgements.html">🇨🇳 简体中文</a> | <a href="../../zh-tw/latest/acknowledgements.html">🇭🇰 繁體中文</a> | <a href="../../ja/latest/acknowledgements.html">🇯🇵 日本語</a></div>
+
 # 致谢
 
 本项目的代码参考或部分参考或依赖于以下开源项目，项目充分尊重原项目的开源协议，特此致谢。
