@@ -21,9 +21,10 @@ author = 'Quard(qiaoqiming)'
 
 extensions = ['myst_parser']
 templates_path = ['_templates']
+html_static_path = ['_static']
 exclude_patterns = ['_build', 'Thumbs.db', '.DS_Store']
 
-language = ['zh_CN']
+language = 'zh_CN'
 html_theme = 'sphinx_material'
 html_title = '主页'
 
@@ -34,8 +35,8 @@ html_sidebars = {
 html_theme_options = {
     'nav_title': 'quardCRT',
 
-    #'color_primary': 'blue',
-    #'color_accent': 'light-blue',
+    'color_primary': 'black',
+    'color_accent': 'light-blue',
 
     'repo_url': 'https://github.com/QQxiaoming/quardCRT',
     'repo_name': 'quardCRT',
@@ -49,3 +50,12 @@ html_theme_options = {
         {"href": "installation","internal": True,"title": "安装"},
     ],
 }
+
+source_suffix = {
+    '.rst': 'restructuredtext',
+    '.md': 'markdown',
+}
+
+def setup(app):
+    app.add_css_file('toctree.css') 
+    
