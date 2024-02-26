@@ -75,12 +75,12 @@ chmod +x quardCRT_Linux_Vxxx_x86_64.AppImage
 1. 双击包。
 2. 点击 `安装软件包`。
 
-![](./img/installation_1.png)
+![deb包安装示例1](./img/installation_1.png)
 
 3. 输入密码，然后点击 `验证`。
 4. 点击 `关闭`。
 
-![](./img/installation_2.png)
+![deb包安装示例2](./img/installation_2.png)
 
 或者你可以通过运行以下命令来安装 deb 包：
 
