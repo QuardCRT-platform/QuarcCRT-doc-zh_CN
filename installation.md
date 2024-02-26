@@ -54,6 +54,8 @@ QuardCRT 是一个跨平台的终端模拟器，它支持 Windows、MacOS 和 Li
 1. 双击 `quardCRT` 图标。
 2. 将 `quardCRT` 图标拖到 `应用程序` 文件夹。
 
+![dmg包安装示例](./img/installation_3.png)
+
 > 注意：因为我们目前发布的预构建二进制包没有经过 Apple 官方签名，所以当你第一次打开程序时，你可能会收到一个警告消息，提示程序来自未知开发者。如果你信任我们的程序，你可能需要打开终端并运行 `xattr -cr /Applications/quardCRT.app` 来移除隔离属性。但如果你不信任我们的程序，你不应该运行它。你可以选择自己编译程序。
 
 ### Linux
