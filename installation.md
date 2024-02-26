@@ -38,10 +38,28 @@ QuardCRT 是一个跨平台的终端模拟器，它支持 Windows、MacOS 和 Li
 你可以通过双击包来安装 QuardCRT，然后按照提示完成安装。
 
 1. 选择语言，然后点击 `确定`。
+
+![Windows安装包示例](./img/installation_4.png)
+
 2. 点击 `下一步`。
+
+![Windows安装包示例](./img/installation_5.png)
+
 3. 选择安装目录，然后点击 `下一步`。
-4. 点击 `安装`。
-5. 点击 `完成`。
+
+![Windows安装包示例](./img/installation_6.png)
+
+4. 选择创建桌面快捷方式，然后点击 `下一步`。
+
+![Windows安装包示例](./img/installation_7.png)
+
+5. 点击 `安装`。
+
+![Windows安装包示例](./img/installation_8.png)
+
+6. 点击 `完成`。
+
+![Windows安装包示例](./img/installation_9.png)
 
 ### MacOS
 
