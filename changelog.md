@@ -4,6 +4,8 @@
 
 ## [[待发布](https://github.com/QQxiaoming/quardCRT)]
 
+## [[V0.4.4](https://github.com/QQxiaoming/quardCRT/releases/tag/V0.4.4)] - 2024-03-26
+
 - 增加ascii发送/接收、Kermit发送/接收、xyzmodem发送/接收功能
 - 修复启动tftp菜单项指示的状态可能出现错误问题
 - 修复终端显示超过第一平面的Unicode字符时程序崩溃的问题
@@ -151,7 +153,7 @@
 ## [[V0.2.0](https://github.com/QQxiaoming/quardCRT/releases/tag/V0.2.0)] - 2023-10-18
 
 - 增加使用alt+n/alt+J切换简约/标准UI
-- 增加启动tfftp服务器实用功能
+- 增加启动tftp服务器实用功能
 - 优化hex view显示界面
 - window安装程序增加使用quardCRT打开的系统集成的右键菜单
 - 标签栏右键菜单增加个多个实用功能
