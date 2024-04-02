@@ -4,6 +4,9 @@
 
 ## [[待发布](https://github.com/QQxiaoming/quardCRT)]
 
+- 修改终端选中后文本强调色透明度50%，而非原本的100%
+- 修复渲染符号"×" "÷"宽度异常问题
+
 ## [[V0.4.4](https://github.com/QQxiaoming/quardCRT/releases/tag/V0.4.4)] - 2024-03-26
 
 - 增加ascii发送/接收、Kermit发送/接收、xyzmodem发送/接收功能
