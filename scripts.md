@@ -221,19 +221,24 @@ if tab.Number > 0:
 
 #### 方法
 
-- `Session.Connect(hostname: str, port: int, protocol: int, username: str, password: str) -> bool`：连接到一个主机。
+- `Session.Connect(cmd: str) -> int`：连接到一个主机。
     - 参数：
-        - `hostname`：主机名。
-        - `port`：端口号。
-        - `protocol`：协议类型。
-        - `username`：用户名。
-        - `password`：密码。
+        - `cmd`：命令。
     - 返回值：连接结果。
-    - 备注：协议类型包括`Session.Telnet`、`Session.SSH1`、`Session.SSH2`、`Session.Rlogin`、`Session.Serial`等。
+    - 备注：命令格式为 `-<type> <arg>`，例如：
+        - `-telnet <hostname> <port>`
+        - `-serial <baudRate> <dataBits> <parity> <stopBits> <flowControl> <xEnable>`
+        - `-localshell <path>`
+        - `-raw <hostname> <port>`
+        - `-namepipe <pipeName>`
+        - `-ssh2 <hostname> <port> <username> <password>`
+        - `-vnc <hostname> <port> <password>`
+        - `-s <sessionName>`
+        - `-clone`
     - 示例：
 
         ```python
-        result = session.Connect("example.com", 22, crt.Session.SSH2, "username", "password")
+        result = session.Connect("-ssh2 example.com 22 root 123456")
         ```
 
 - `Session.Disconnect()`：断开当前会话。
