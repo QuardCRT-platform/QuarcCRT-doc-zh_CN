@@ -637,13 +637,12 @@ commandwindow = crt.CommandWindow
 
 #### 方法
 
-- `CommandWindow.Send(str: str)`：发送文本到命令窗口。
-    - 参数：
-        - `str`：发送的文本。
+- `CommandWindow.Send()`：发送文本到命令窗口。
     - 示例：
 
         ```python
-        commandwindow.Send("Hello, quardCRT!")
+        commandwindow.Text = 'Hello, quardCRT!'
+        commandwindow.Send()
         ```
 
 #### 属性
