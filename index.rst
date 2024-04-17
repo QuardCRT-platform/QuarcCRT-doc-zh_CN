@@ -114,4 +114,5 @@ quardCRT从V0.4.0版本开始支持插件，插件将以Qt插件的形式提供�
    许可证<license.md>
    路线图<roadmap.md>
    致谢<acknowledgements.md>
+   隐私<privacy.md>
  

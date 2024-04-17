@@ -13,6 +13,11 @@
 - 修复渲染某些符号宽度异常问题
 - 增加 ANSI OSC52 sequence 支持
 - 修复断开会话会直接关闭标签而不是断开会话的问题
+- 改进会话管理器页面宽度可自由调整
+- Windows下通过MSVC构建的版本采用ConPty代替WinPty，Mingw构建版本继续使用WinPty
+- 改进双击选中CJK字符时的表现
+- 改进输入法预编辑区域的显示表现
+- 设置中增加终端配色方案调色板功能
 
 ## [[V0.4.4](https://github.com/QQxiaoming/quardCRT/releases/tag/V0.4.4)] - 2024-03-26
 
