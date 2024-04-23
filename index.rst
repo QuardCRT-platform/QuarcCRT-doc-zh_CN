@@ -23,7 +23,7 @@ quardCRT
 .. image:: https://img.shields.io/github/license/qqxiaoming/quardCRT.svg?colorB=f48041&logo=gnu
    :target: https://github.com/QQxiaoming/quardCRT
    :alt: License
-.. image:: https://img.shields.io/github/tag/QQxiaoming/quardCRT.svg?logo=git
+.. image:: https://img.shields.io/github/v/tag/QQxiaoming/quardCRT?filter=V*&logo=git
    :target: https://github.com/QQxiaoming/quardCRT/releases
    :alt: GitHub tag (latest SemVer)
 .. image:: https://img.shields.io/github/downloads/QQxiaoming/quardCRT/total.svg?logo=pinboard
