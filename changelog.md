@@ -4,6 +4,8 @@
 
 ## [[待发布](https://github.com/QQxiaoming/quardCRT)]
 
+## [[V0.4.5](https://github.com/QQxiaoming/quardCRT/releases/tag/V0.4.5)] - 2024-04-26
+
 - 修改终端选中后文本强调色透明度50%，而非原本的100%
 - 修复渲染符号'×' '÷' '‖'宽度异常问题
 - 修复存在一小概率情况下程序崩溃的问题
@@ -21,6 +23,8 @@
 - 增加终端配色方案调色板设置功能
 - 增加切换主题时自动切换终端配色方案功能
 - 增加删除会话时的确认对话框
+- 修复上下文菜单过长时显示不全难以操作的问题
+- 修复windows下的一些主题切换引起的显示异常问题
 
 ## [[V0.4.4](https://github.com/QQxiaoming/quardCRT/releases/tag/V0.4.4)] - 2024-03-26
 
