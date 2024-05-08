@@ -2,7 +2,19 @@
 
 # 安装
 
-QuardCRT 是一个跨平台的终端模拟器，它支持 Windows、MacOS 和 Linux。你可以根据你的平台下载对应的包。
+QuardCRT 是一个跨平台的终端模拟器，它支持 Windows、MacOS 和 Linux。如果可能的话，我们首先建议你通过本地平台的官方应用商店安装 QuardCRT。
+
+## 应用商店
+
+QuardCRT 现在在以下应用商店提供。
+
+- [![Microsoft Store](https://get.microsoft.com/images/zh-cn%20dark.svg)](https://apps.microsoft.com/detail/quardCRT/9p6102k9qb3t?mode=direct)
+- [星火商店](https://www.spark-app.store/store/application/quardcrt)
+- 深度商店
+
+未来会在更多应用商店可用，敬请期待。
+
+当然，你也可以根据你的平台下载对应的安装包。
 
 ## 下载
 
