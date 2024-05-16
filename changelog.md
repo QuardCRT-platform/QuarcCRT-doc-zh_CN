@@ -4,6 +4,15 @@
 
 ## [[待发布](https://github.com/QQxiaoming/quardCRT)]
 
+- 增加设置主界面主题色功能
+- 增加状态栏显示会话信息功能
+- 在Windows增加启动WSL终端工具栏按钮
+- 修复某些shell环境下克隆标签时工作目录未能正确克隆的问题
+- 修复键盘绑定设置中取消修改时也会保存的问题
+- 修复关闭全部标签页时确认对话框无法选择取消的问题
+- 修复会话管理器中修改会话属性后会话管理器内当前选中会话被错误切换问题
+- 新增集成预构建插件[CharacterCode](https://github.com/QuardCRT-platform/plugin-CharacterCode)、[ListSerial](https://github.com/QuardCRT-platform/plugin-ListSerial)，更新预构建插件[SearchOnWeb](https://github.com/QuardCRT-platform/plugin-SearchOnWeb)到V0.0.4版本
+
 ## [[V0.4.5](https://github.com/QQxiaoming/quardCRT/releases/tag/V0.4.5)] - 2024-04-26
 
 - 修改终端选中后文本强调色透明度50%，而非原本的100%
@@ -25,6 +34,7 @@
 - 增加删除会话时的确认对话框
 - 修复上下文菜单过长时显示不全难以操作的问题
 - 修复windows下的一些主题切换引起的显示异常问题
+- 更新预构建插件[onestep](https://github.com/QuardCRT-platform/plugin-onestep)到V0.0.3版本
 
 ## [[V0.4.4](https://github.com/QQxiaoming/quardCRT/releases/tag/V0.4.4)] - 2024-03-26
 
@@ -54,7 +64,7 @@
 - 修复macos下全屏导致程序崩溃问题
 - 修复macos native UI模式下标题按钮没有切换为macos风格问题
 - 修复macos通过native UI样式标题按钮全屏后，无法显示界面上上下文菜单中退出全屏选项问题
-- 预构建版本增加对于[插件生态平台](https://github.com/QuardCRT-platform)的预构建插件的打包
+- 预构建版本增加对于[插件生态平台](https://github.com/QuardCRT-platform)的预构建插件的打包，首次包含插件[SearchOnWeb](https://github.com/QuardCRT-platform/plugin-SearchOnWeb)、[onestep](https://github.com/QuardCRT-platform/plugin-onestep)、[quickcomplete](https://github.com/QuardCRT-platform/plugin-quickcomplete)
 
 ## [[V0.4.1](https://github.com/QQxiaoming/quardCRT/releases/tag/V0.4.1)] - 2024-01-13
 
