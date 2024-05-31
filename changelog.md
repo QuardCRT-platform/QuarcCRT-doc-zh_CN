@@ -4,13 +4,23 @@
 
 ## [[待发布](https://github.com/QQxiaoming/quardCRT)]
 
+- 增加广播会话功能 [#36](https://github.com/QQxiaoming/quardCRT/issues/36)
+- 增加标签标记颜色功能
+- 增加块选择（Shift+click）和列选择（Alt+Shift+click）功能
+- 修复修改当前正在运行中的会话配置导致的崩溃问题
+- 修复多屏幕的情况下，上下文菜单弹出位置错误问题
+
+## [[V0.4.6](https://github.com/QQxiaoming/quardCRT/releases/tag/V0.4.6)] - 2024-05-26
+
 - 增加设置主界面主题色功能
 - 增加状态栏显示会话信息功能
 - 在Windows增加启动WSL终端工具栏按钮
+- 增加用户自定义插件加载路径设置
 - 修复某些shell环境下克隆标签时工作目录未能正确克隆的问题
 - 修复键盘绑定设置中取消修改时也会保存的问题
 - 修复关闭全部标签页时确认对话框无法选择取消的问题
 - 修复会话管理器中修改会话属性后会话管理器内当前选中会话被错误切换问题
+- 修复新会话可能创建在被隐藏的标签页组上的问题
 - 新增集成预构建插件[CharacterCode](https://github.com/QuardCRT-platform/plugin-CharacterCode)、[ListSerial](https://github.com/QuardCRT-platform/plugin-ListSerial)，更新预构建插件[SearchOnWeb](https://github.com/QuardCRT-platform/plugin-SearchOnWeb)到V0.0.4版本
 
 ## [[V0.4.5](https://github.com/QQxiaoming/quardCRT/releases/tag/V0.4.5)] - 2024-04-26
