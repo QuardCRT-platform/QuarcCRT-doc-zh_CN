@@ -7,8 +7,16 @@
 - 增加广播会话功能 [#36](https://github.com/QQxiaoming/quardCRT/issues/36)
 - 增加标签标记颜色功能
 - 增加块选择（Shift+click）和列选择（Alt+Shift+click）功能
+- 增加用户自定义光标颜色设置
 - 修复修改当前正在运行中的会话配置导致的崩溃问题
 - 修复多屏幕的情况下，上下文菜单弹出位置错误问题
+- 修改右击非当前标签页时，切换到该标签页
+- 修复在windows msvc版本local shell光标对齐错误问题，需要禁用resizeQuirk [#39](https://github.com/QQxiaoming/quardCRT/issues/39)
+- 修复多行文本粘贴确认无效问题，并允许用户自行设置启用/禁用
+- 修复自动修剪文本粘贴内容中的空行问题，并允许用户自行设置启用/禁用
+- 修复不稳定的SSH初始化终端大小问题 [#40](https://github.com/QQxiaoming/quardCRT/issues/40)
+- 修复SSH远端主动结束后，概率崩溃问题
+- 更新预构建插件[CharacterCode](https://github.com/QuardCRT-platform/plugin-CharacterCode)到V0.0.3版本
 
 ## [[V0.4.6](https://github.com/QQxiaoming/quardCRT/releases/tag/V0.4.6)] - 2024-05-26
 
