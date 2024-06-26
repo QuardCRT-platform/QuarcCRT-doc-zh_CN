@@ -4,10 +4,16 @@
 
 ## [[待发布](https://github.com/QQxiaoming/quardCRT)]
 
+- 增加回显功能
+
+## [[V0.4.7](https://github.com/QQxiaoming/quardCRT/releases/tag/V0.4.7)] - 2024-06-26
+
 - 增加广播会话功能 [#36](https://github.com/QQxiaoming/quardCRT/issues/36)
 - 增加标签标记颜色功能
 - 增加块选择（Shift+click）和列选择（Alt+Shift+click）功能
 - 增加用户自定义光标颜色设置
+- 增加设置中可选项的工具提示
+- 增加高级选项可以设置默认启动本地终端使用的Shell（Linux/MacOS下默认为$SHELL，Windows下默认为系统内置powershell，Windows下此功能仅用于调整PowerShell版本，而非启动其他Shell，其他Shell请使用本地Shell会话设定特定命令启动）
 - 修复修改当前正在运行中的会话配置导致的崩溃问题
 - 修复多屏幕的情况下，上下文菜单弹出位置错误问题
 - 修改右击非当前标签页时，切换到该标签页
@@ -16,7 +22,9 @@
 - 修复自动修剪文本粘贴内容中的空行问题，并允许用户自行设置启用/禁用
 - 修复不稳定的SSH初始化终端大小问题 [#40](https://github.com/QQxiaoming/quardCRT/issues/40)
 - 修复SSH远端主动结束后，概率崩溃问题
-- 更新预构建插件[CharacterCode](https://github.com/QuardCRT-platform/plugin-CharacterCode)到V0.0.3版本
+- 修复恢复字体设置到内建字体时，字体显示异常
+- 修复在Linux上使用多屏幕时，窗口移动/大小调整等操作导致的窗口位置异常问题
+- 新增集成预构建插件[TextStatistics](https://github.com/QuardCRT-platform/plugin-TextStatistics)，更新预构建插件[CharacterCode](https://github.com/QuardCRT-platform/plugin-CharacterCode)到V0.0.3版本
 
 ## [[V0.4.6](https://github.com/QQxiaoming/quardCRT/releases/tag/V0.4.6)] - 2024-05-26
 
