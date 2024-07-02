@@ -42,6 +42,10 @@ quardCRT
    :target: https://gitee.com/QQxiaoming/quardCRT
    :alt: Gitee forks
 
+.. image:: ./img/social_preview.jpg
+   :align: center
+   :alt: quardCRT
+
 quardCRT一款多功能终端仿真/图形桌面软件，支持多种后端协议，无依赖跨平台使用，windows/linux/mac使用体验完全一致，支持多标签页和历史记录管理等传统终端软件功能，同时支持一些独具特色的细节功能。quardCRT的设计宗旨是创建尽可能用户友好、功能丰富、且跨平台一致性体验的终端软件，相比很多专业高性能终端，quardCRT会更适合入门、轻度用户快速的配置好所需的终端环境，但这也并不意味quardCRT不追求高性能。
 
 .. list-table:: 
