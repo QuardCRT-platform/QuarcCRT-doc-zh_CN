@@ -8,6 +8,10 @@
 - 修复部分会话类型无法重连问题
 - 增加非连接状态下的会话可以通过单击回车键自动重连功能
 - 增加串口自动检测物理连接断开功能
+- 增加刷新串口按钮在选择串口页面中
+- 增加了至多四窗口分屏模式以及多种布局模式
+- 发送命令窗口增加单会话/组会话/全部会话三种模式
+- 修复非英文环境下Telnet会话存储配置错误导致无法连接问题 [#IAADHZ](https://gitee.com/QQxiaoming/quardCRT/issues/IAADHZ)
 - 新增预构建插件[timestamp](https://github.com/QuardCRT-platform/plugin-timestamp)
 
 ## [[V0.4.7](https://github.com/QQxiaoming/quardCRT/releases/tag/V0.4.7)] - 2024-06-26
