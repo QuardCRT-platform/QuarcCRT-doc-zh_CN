@@ -4,6 +4,10 @@
 
 ## [[待发布](https://github.com/QQxiaoming/quardCRT)]
 
+- 为脚本功能添加Python脚本引擎 [#31](https://github.com/QQxiaoming/quardCRT/pull/31)
+
+## [[V0.4.8](https://github.com/QQxiaoming/quardCRT/releases/tag/V0.4.8)] - 2024-07-26
+
 - 增加回显功能
 - 修复部分会话类型无法重连问题
 - 增加非连接状态下的会话可以通过单击回车键自动重连功能
@@ -11,8 +15,14 @@
 - 增加刷新串口按钮在选择串口页面中
 - 增加了至多四窗口分屏模式以及多种布局模式
 - 发送命令窗口增加单会话/组会话/全部会话三种模式
+- 插件信息页面增加插件网站主页显示
+- 增加通知中心
+- 增加内部命令窗口
+- 改进URL识别链接的上下文菜单
+- 改进查找窗口在每次打开时自动填入当前选择的文本
+- 改进状态栏
 - 修复非英文环境下Telnet会话存储配置错误导致无法连接问题 [#IAADHZ](https://gitee.com/QQxiaoming/quardCRT/issues/IAADHZ)
-- 新增预构建插件[timestamp](https://github.com/QuardCRT-platform/plugin-timestamp)
+- 新增预构建插件[timestamp](https://github.com/QuardCRT-platform/plugin-timestamp)，更新预构建插件[ListSerial](https://github.com/QuardCRT-platform/plugin-ListSerial)到V0.0.3版本，更新预构建插件CharacterCode到V0.0.4版本
 
 ## [[V0.4.7](https://github.com/QQxiaoming/quardCRT/releases/tag/V0.4.7)] - 2024-06-26
 
