@@ -5,6 +5,7 @@
 ## [[待发布](https://github.com/QQxiaoming/quardCRT)]
 
 - 为脚本功能添加Python脚本引擎 [#31](https://github.com/QQxiaoming/quardCRT/pull/31)
+- 增加选择行尾序列功能
 
 ## [[V0.4.8](https://github.com/QQxiaoming/quardCRT/releases/tag/V0.4.8)] - 2024-07-26
 
