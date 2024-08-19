@@ -28,3 +28,5 @@
 - [Kermit-Protocol](https://github.com/tazlauanubianca/Kermit-Protocol)
 - [QSourceHighlite](https://github.com/Waqar144/QSourceHighlite)
 - [qextserialport](https://github.com/qextserialport/qextserialport)
+- [Qt-QrCodeGenerator](https://github.com/alex-spataru/Qt-QrCodeGenerator)
+- [sqlite3](https://www.sqlite.org)
