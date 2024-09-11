@@ -4,15 +4,29 @@
 
 ## [[待发布](https://github.com/QQxiaoming/quardCRT)]
 
+- Windows下Profile如果不存在则自动使用默认配置
+- 增加连接条ToolTip显示
+- 增加系统响铃支持
+- 增加记录脚本功能
+- 改进记录日志等默认路径为上次保存路径
+- 修复可能存在的小概率内存泄漏问题
+
+## [[V0.5.0](https://github.com/QQxiaoming/quardCRT/releases/tag/V0.5.0)] - 2024-08-26
+
 - 为脚本功能添加Python脚本引擎 [#31](https://github.com/QQxiaoming/quardCRT/pull/31)
 - 增加选择行尾序列功能
 - 增加状态栏日志信息，SSH加密算法信息
 - 分屏模式下激活的会话增加强调色边框
 - 高亮功能增加自定义颜色功能
 - 多行粘贴确认时允许编辑待粘贴文本
+- 标签栏标题允许显示自定义会话名称
+- Windows增加自定义Local Shell Profile路径功能
 - 修复分屏模式下某些情况点击新标签按钮会话未正确创建或位于错误的标签页组下
 - 修复ssh连接部分情况下无法通过敲击回车键发起重连的问题
 - 修复锁定/解锁会话时目标会话对象不准确
+- 修复浮动窗口上下文菜单中部分功能无法使用的问题
+- 修复不同情况下新建会话名称不一致问题 [#45](https://github.com/QQxiaoming/quardCRT/issues/45)
+- 更新预构建插件[timestamp](https://github.com/QuardCRT-platform/plugin-timestamp)到V0.0.3版本，更新预构建插件CharacterCode到V0.0.4版本
 
 ## [[V0.4.8](https://github.com/QQxiaoming/quardCRT/releases/tag/V0.4.8)] - 2024-07-26
 
