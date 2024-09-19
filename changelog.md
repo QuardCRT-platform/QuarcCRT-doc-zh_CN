@@ -8,8 +8,13 @@
 - 增加连接条ToolTip显示
 - 增加系统响铃支持
 - 增加记录脚本功能
+- 增加最近加载的脚本功能
+- 增加禁用插件命令行选项
+- 增加浮动窗口关闭时二次确认
 - 改进记录日志等默认路径为上次保存路径
+- 改进会话标签外观
 - 修复可能存在的小概率内存泄漏问题
+- 更新预构建插件[ListSerial](https://github.com/QuardCRT-platform/plugin-ListSerial)到V0.0.5版本
 
 ## [[V0.5.0](https://github.com/QQxiaoming/quardCRT/releases/tag/V0.5.0)] - 2024-08-26
 
@@ -26,7 +31,7 @@
 - 修复锁定/解锁会话时目标会话对象不准确
 - 修复浮动窗口上下文菜单中部分功能无法使用的问题
 - 修复不同情况下新建会话名称不一致问题 [#45](https://github.com/QQxiaoming/quardCRT/issues/45)
-- 更新预构建插件[timestamp](https://github.com/QuardCRT-platform/plugin-timestamp)到V0.0.3版本，更新预构建插件CharacterCode到V0.0.4版本
+- 更新预构建插件[timestamp](https://github.com/QuardCRT-platform/plugin-timestamp)到V0.0.3版本
 
 ## [[V0.4.8](https://github.com/QQxiaoming/quardCRT/releases/tag/V0.4.8)] - 2024-07-26
 
@@ -44,7 +49,7 @@
 - 改进查找窗口在每次打开时自动填入当前选择的文本
 - 改进状态栏
 - 修复非英文环境下Telnet会话存储配置错误导致无法连接问题 [#IAADHZ](https://gitee.com/QQxiaoming/quardCRT/issues/IAADHZ)
-- 新增预构建插件[timestamp](https://github.com/QuardCRT-platform/plugin-timestamp)，更新预构建插件[ListSerial](https://github.com/QuardCRT-platform/plugin-ListSerial)到V0.0.3版本，更新预构建插件CharacterCode到V0.0.4版本
+- 新增预构建插件[timestamp](https://github.com/QuardCRT-platform/plugin-timestamp)，更新预构建插件[ListSerial](https://github.com/QuardCRT-platform/plugin-ListSerial)到V0.0.3版本，更新预构建插件[CharacterCode](https://github.com/QuardCRT-platform/plugin-CharacterCode)到V0.0.4版本
 
 ## [[V0.4.7](https://github.com/QQxiaoming/quardCRT/releases/tag/V0.4.7)] - 2024-06-26
 
