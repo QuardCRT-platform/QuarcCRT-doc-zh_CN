@@ -11,8 +11,8 @@ quardCRT
 .. image:: https://img.shields.io/github/actions/workflow/status/qqxiaoming/quardCRT/linux.yml?branch=main&logo=linux&logoColor=white
    :target: https://github.com/QQxiaoming/quardCRT/actions/workflows/linux.yml
    :alt: Linux ci
-.. image:: https://img.shields.io/github/actions/workflow/status/qqxiaoming/quardCRT/macos.yml?branch=main&logo=apple
-   :target: https://github.com/QQxiaoming/quardCRT/actions/workflows/macos.yml
+.. image:: https://img.shields.io/github/actions/workflow/status/qqxiaoming/quardCRT/macos_arm64.yml?branch=main&logo=apple
+   :target: https://github.com/QQxiaoming/quardCRT/actions/workflows/macos_arm64.yml
    :alt: Macos ci
 .. image:: https://img.shields.io/codefactor/grade/github/qqxiaoming/quardCRT.svg?logo=codefactor
    :target: https://www.codefactor.io/repository/github/qqxiaoming/quardCRT

@@ -6,4 +6,4 @@
 
 如果你想改进/修复已知的问题，你可以查看 [TODO](https://gitee.com/QQxiaoming/quardCRT/blob/main/TODO.md)。
 
-当前项目建议使用 Qt6.5.0 及以上版本。
+当前项目建议使用 Qt6.6.0 及以上版本。
