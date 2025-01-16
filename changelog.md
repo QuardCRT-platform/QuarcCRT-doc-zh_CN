@@ -4,6 +4,16 @@
 
 ## [[待发布](https://github.com/QQxiaoming/quardCRT)]
 
+- 修复主窗口错误的提升
+- 增加日志中允许添加自定义数据功能
+- 改进记录日志文件路径设置选项
+- 增加TFTP服务器配置到设置中
+- 增加终端录制视频功能
+- Raw协议增加四种模式TCP Client、TCP Server、UDP Send、UDP Receive
+- 增加查看自身log窗口，用于quardCRT自身debug
+
+## [[V0.5.1](https://github.com/QQxiaoming/quardCRT/releases/tag/V0.5.1)] - 2024-09-26
+
 - Windows下Profile如果不存在则自动使用默认配置
 - 增加连接条ToolTip显示
 - 增加系统响铃支持
